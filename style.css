@@ -66,8 +66,7 @@ div {
 
 h1, h3 {
     color: #0072ff;
-    font-family: 'Poppins', sans-serif;
-    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif; 
 }
 p {
     font-size: 16px;
